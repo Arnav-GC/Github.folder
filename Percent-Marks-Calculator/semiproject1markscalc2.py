@@ -172,4 +172,4 @@ if marks1 !=0:
                                 else:
                                     print ("you have passed in ", S8)
 
-print ("thank you")
+print ("thank you!")
